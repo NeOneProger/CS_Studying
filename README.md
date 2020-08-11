@@ -1,5 +1,5 @@
 # CS_Studying
-Here's history of my C# studying.
+Here's the history of my C# studying.
 To use this code you need to:
   1. Download all these files.
   2. Put all these files in C# Project.

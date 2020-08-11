@@ -12,6 +12,7 @@ class Studying
         DialogInputOutput.Acquaitance();
         ConsoleInputOutput.Acquaitance();
         ConsoleInputOutput.AgeCount();
+        DialogInputOutput.AgeCount();
         DialogOutput.TestOutput();
     }
 }

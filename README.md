@@ -6,5 +6,5 @@ To use this code you need to:
   3. Launch ONLY the file called "Main" without or with debuging.
 
 All these files are FREE TO USE.
-TO SUPPORT THE AUTHOR CLICK THE LINK BELOW
+TO SUPPORT THE AUTHOR FOLLOW THE LINK BELOW
 https://www.donationalerts.com/r/k_e_t_e_r
